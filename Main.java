@@ -1,5 +1,3 @@
-package com.gulraiz;
-
 import java.util.Arrays;
 
 public class Main {
